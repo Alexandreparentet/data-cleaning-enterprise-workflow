@@ -45,7 +45,3 @@ Os arquivos utilizados estão localizados em uma pasta de dados e incluem:
 - [Pandas](https://pandas.pydata.org/)
 - [Scikit-learn](https://scikit-learn.org/) (`SimpleImputer`, `get_dummies`)
 
----
-
-## 📁 Estrutura do Projeto
-
